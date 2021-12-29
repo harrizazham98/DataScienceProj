@@ -1,0 +1,1 @@
+This is my personal project on data science where I get the dataset from open source such as Kaggle. From this personal project, I apply some fundamentals I learn such as feature engineering, feature selection and model training. 
