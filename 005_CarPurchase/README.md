@@ -110,10 +110,10 @@ Overall, some forecasting methods did well. Exponential Smoothing did quite well
 ## Q4
 
 ### Best type of EV preferred in the past
-![Alt text](materials/Q4/output1.png)
+![Alt text](materials/Q4/output1.png)<br>
 In the past, Battery Electric Car has higher percentage than Hybrid.
 ### Best type of ICE preferred in the past
-![Alt text](materials/Q4/output2.png)
+![Alt text](materials/Q4/output2.png)<br>
 In the past, ICE Gasoline Car has higher percentage than ICE Diesel.
 ### Best type of EV preferred for the future
 For prediction, I use Exponential Smoothing as it seems giving a good performance on previous question. 
