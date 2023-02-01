@@ -99,6 +99,19 @@ From the Autocorrelation and Partial Correlation of all condition, the time seri
 ### XGBOOST
 ![Alt text](materials/Q3/output23.png)<br>
 
+## Q4
+
+### Best type of EV preferred in the past
+![Alt text](materials/Q4/output1.png)
+### Best type of ICE preferred in the past
+![Alt text](materials/Q4/output2.png)
+### Best type of EV preferred for the future
+![Alt text](materials/Q4/output3.png)
+![Alt text](materials/Q4/output4.png)
+### Best type of ICE preferred for the future
+![Alt text](materials/Q4/output5.png)
+![Alt text](materials/Q4/output6.png)
+
 
 
 
