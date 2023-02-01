@@ -32,4 +32,51 @@ Normalized Scale
 ## Q2
 
 ### Consumer preferences of used vs new car when purchasing of EV.
+![Alt text](materials/Q2/output1.png)<br>
+
+### Consumer preferences of used vs new car when purchasing of ICE.
+![Alt text](materials/Q2/output2.png)<br>
+
+## Q3
+For forecasting method, I use statistical method (ARIMA, Exponential Smoothing), Machine Learning (Linear Rigression, XGBoost), and Recursive multi-step forecasting
+
+### Prediction of ICE purchase in the next 5 years.
+First, Autocorrelation and Partial Correlation is computed to identofi the relationship among lags.
+![Alt text](materials/Q3/output1.png)<br>
+Original Time Series
+![Alt text](materials/Q3/output2.png)<br>
+1st Order Time Series
+![Alt text](materials/Q3/output3.png)<br>
+2nd Order Time Series<br>
+
+From the Autocorrelation and Partial Correlation of all condition, the time series is still non-stationary. The time seies must be stationary before applying it to forecasting method because he mean and variance must be constant over time or series.<br>
+
+#### ARIMA
+![Alt text](materials/Q3/output4.png)<br>
+
+#### Exponential Smoothing
+![Alt text](materials/Q3/output5.png)<br>
+
+#### Machine Learning
+![Alt text](materials/Q3/output6.png)<br>
+![Alt text](materials/Q3/output7.png)<br>
+![Alt text](materials/Q3/output8.png)<br>
+![Alt text](materials/Q3/output9.png)<br>
+![Alt text](materials/Q3/output10.png)<br>
+
+### Recursive multi-step forecasting
+![Alt text](materials/Q3/output11.png)<br>
+
+### XGBOOST
+![Alt text](materials/Q3/output12.png)<br>
+
+
+
+
+
+
+
+
+
+
 
