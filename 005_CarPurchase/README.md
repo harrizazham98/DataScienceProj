@@ -10,3 +10,9 @@
 ### 2. Consumer preferences of used vs new car when purchasing of EV and ICE.
 ### 3. Prediction of EV and ICE purchase in the next 5 years.
 ### 4. Best type of EV and ICE preferred in the past and prediction for the future.
+
+## Q1
+
+### Trend of EV purchase in the past 10 years.
+![Alt text](materials/Q1/output1.png)
+From the above graph, the line fluctuates and it shows a decresing pattern. 
