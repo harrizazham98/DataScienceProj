@@ -41,7 +41,7 @@ Normalized Scale
 For forecasting method, I use statistical method (ARIMA, Exponential Smoothing), Machine Learning (Linear Rigression, XGBoost), and Recursive multi-step forecasting
 
 ### Prediction of ICE purchase in the next 5 years.
-First, Autocorrelation and Partial Correlation is computed to identofi the relationship among lags.
+First, Autocorrelation and Partial Correlation is computed to identify the relationship among lags.
 ![Alt text](materials/Q3/output1.png)<br>
 Original Time Series
 ![Alt text](materials/Q3/output2.png)<br>
@@ -49,7 +49,7 @@ Original Time Series
 ![Alt text](materials/Q3/output3.png)<br>
 2nd Order Time Series<br>
 
-From the Autocorrelation and Partial Correlation of all condition, the time series is still non-stationary. The time seies must be stationary before applying it to forecasting method because he mean and variance must be constant over time or series.<br>
+From the Autocorrelation and Partial Correlation of all condition, the time series is still non-stationary. The time seies must be stationary before applying it to forecasting method because the mean and variance must be constant over time or series.<br>
 
 #### ARIMA
 ![Alt text](materials/Q3/output4.png)<br>
@@ -69,6 +69,35 @@ From the Autocorrelation and Partial Correlation of all condition, the time seri
 
 ### XGBOOST
 ![Alt text](materials/Q3/output12.png)<br>
+
+
+### Prediction of EV purchase in the next 5 years.
+First, Autocorrelation and Partial Correlation is computed to identofi the relationship among lags.
+![Alt text](materials/Q3/output13.png)<br>
+Original Time Series
+![Alt text](materials/Q3/output14.png)<br>
+1st Order Time Series
+
+From the Autocorrelation and Partial Correlation of all condition, the time series is still non-stationary. The time seies must be stationary before applying it to forecasting method because the mean and variance must be constant over time or series.<br>
+
+#### ARIMA
+![Alt text](materials/Q3/output15.png)<br>
+
+#### Exponential Smoothing
+![Alt text](materials/Q3/output16.png)<br>
+
+#### Machine Learning
+![Alt text](materials/Q3/output17.png)<br>
+![Alt text](materials/Q3/output18.png)<br>
+![Alt text](materials/Q3/output19.png)<br>
+![Alt text](materials/Q3/output20.png)<br>
+![Alt text](materials/Q3/output21.png)<br>
+
+### Recursive multi-step forecasting
+![Alt text](materials/Q3/output22.png)<br>
+
+### XGBOOST
+![Alt text](materials/Q3/output23.png)<br>
 
 
 
