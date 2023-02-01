@@ -23,7 +23,13 @@ From the above graph, it increases over time.
 
 ### Comparison
 ![Alt text](materials/Q1/output3.png)<br>
-Real Scale
+Real Scale<br>
+
 ![Alt text](materials/Q1/output4.png)<br>
 Normalized Scale
+
+
+## Q2
+
+### Consumer preferences of used vs new car when purchasing of EV.
 
