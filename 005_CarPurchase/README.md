@@ -14,5 +14,16 @@
 ## Q1
 
 ### Trend of EV purchase in the past 10 years.
-![Alt text](materials/Q1/output1.png)
+![Alt text](materials/Q1/output1.png)<br>
 From the above graph, the line fluctuates and it shows a decresing pattern. 
+
+### Trend of ICE purchase in the past 10 years.
+![Alt text](materials/Q1/output2.png)<br>
+From the above graph, it increases over time. 
+
+### Comparison
+![Alt text](materials/Q1/output3.png)<br>
+Real Scale
+![Alt text](materials/Q1/output4.png)<br>
+Normalized Scale
+
