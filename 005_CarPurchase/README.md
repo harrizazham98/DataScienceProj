@@ -11,6 +11,10 @@
 ### 3. Prediction of EV and ICE purchase in the next 5 years.
 ### 4. Best type of EV and ICE preferred in the past and prediction for the future.
 
+## THE CODE:
+### eda.ipynb covers Q1, Q2, and Q4
+### forecasting.ipynb covers Q3
+
 ## Q1
 
 ### Trend of EV purchase in the past 10 years.
@@ -129,6 +133,7 @@ Gasoline
 ![Alt text](materials/Q4/output6.png)<br>
 Diesel
 Based on Gasoline and Diesel graph, both are decreasing but Diesel shows a drastic decreasing . Hence, Gasoline is expected to best ICE type in future. 
+
 
 
 
