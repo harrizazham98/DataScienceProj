@@ -5,3 +5,4 @@ Project:
 2. University College Acceptance
 3. Engineer Salary Prediction (in-progress)
 4. House Prediction (in-progress)
+5. Car Purchase
