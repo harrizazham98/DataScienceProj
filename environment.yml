@@ -372,4 +372,4 @@ dependencies:
       - sqlalchemy==2.0.0
       - stevedore==4.1.1
       - xgboost==1.7.3
-prefix: C:\Users\harri\anaconda3\envs\dataScience
+
