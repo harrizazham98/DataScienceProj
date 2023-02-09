@@ -19,10 +19,10 @@
 1. Make sure you have conda installed in your local system.<br>
 2. Open terminal, change the respective directory to 005_CarPurchase folder (contains environment.yml) and run:<br>
 
-        ``` conda env create -f environment.yml ```
+         conda env create -f environment.yml 
 3. Activate the environment. <br>
 
-        ``` conda activate dataScience ```
+         conda activate dataScience 
 
 4. At your editor such as Visual Studio, make sure you change the kernel to "dataScience" and then you can run the jupyterbook accordingly. <br>
 
