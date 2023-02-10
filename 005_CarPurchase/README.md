@@ -16,7 +16,7 @@
 ### forecasting.ipynb covers Q3
 
 ## INSTALL ENVIRONMENT
-### CONDA
+### CONDA (RECOMMENDED)
 1. Make sure you have conda installed in your local system.<br>
 2. Open terminal, change the respective directory to 005_CarPurchase folder (contains environment.yml) and run:<br>
 
