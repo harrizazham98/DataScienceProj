@@ -30,7 +30,7 @@
 
          pip install skforecast
 
-p/s if skforecast is failed to be installed, use  **pip install skforecast --user**
+p/s if skforecast is failed to be installed, use  **pip install skforecast --user** <br>
 5. At your editor such as Visual Studio, make sure you change the kernel to "dataScienceProject" and then you can run the jupyterbook accordingly. <br>
 
 ### venv
