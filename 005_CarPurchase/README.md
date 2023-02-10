@@ -24,10 +24,13 @@
 3. Activate the environment. <br>
 
          conda activate dataScienceProject
-4. Install sktime seprately. <br>
+4. Install sktime and skforecast seprately. <br>
 
          pip install sktime[all_extras]
 
+         pip install skforecast
+
+p/s if skforecast is failed to be installed, use  **pip install skforecast --user**
 5. At your editor such as Visual Studio, make sure you change the kernel to "dataScienceProject" and then you can run the jupyterbook accordingly. <br>
 
 ### venv
