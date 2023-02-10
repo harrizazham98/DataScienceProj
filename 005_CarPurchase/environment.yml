@@ -1,4 +1,4 @@
-name: dataScience
+name: dataScienceProject
 channels:
   - defaults
 dependencies:
@@ -10,5 +10,5 @@ dependencies:
   - jupyter
   - matplotlib
   - statsmodels
-  - sktime-all-extras
   - py-xgboost
+  - pip
