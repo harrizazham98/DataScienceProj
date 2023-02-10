@@ -39,6 +39,7 @@ p/s if skforecast is failed to be installed, use  **pip install skforecast --use
 
          pip install -r requirements.txt
 
+
 ## Q1
 
 ### Trend of EV purchase in the past 10 years.
