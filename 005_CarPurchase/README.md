@@ -27,7 +27,7 @@
 
          pip install sktime[all_extras]
 
-5. At your editor such as Visual Studio, make sure you change the kernel to "dataScience" and then you can run the jupyterbook accordingly. <br>
+5. At your editor such as Visual Studio, make sure you change the kernel to "dataScienceProject" and then you can run the jupyterbook accordingly. <br>
 
 ## Q1
 
