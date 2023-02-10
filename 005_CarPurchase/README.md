@@ -16,6 +16,7 @@
 ### forecasting.ipynb covers Q3
 
 ## INSTALL ENVIRONMENT
+### CONDA
 1. Make sure you have conda installed in your local system.<br>
 2. Open terminal, change the respective directory to 005_CarPurchase folder (contains environment.yml) and run:<br>
 
@@ -28,6 +29,12 @@
          pip install sktime[all_extras]
 
 5. At your editor such as Visual Studio, make sure you change the kernel to "dataScienceProject" and then you can run the jupyterbook accordingly. <br>
+
+### venv
+1. Create your venv and activate it.<br>
+2. Run <br>
+
+         pip install -r requirements.txt
 
 ## Q1
 
