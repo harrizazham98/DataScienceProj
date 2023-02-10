@@ -22,9 +22,12 @@
          conda env create -f environment.yml 
 3. Activate the environment. <br>
 
-         conda activate dataScience 
+         conda activate dataScienceProject
+4. Install sktime seprately. <br>
 
-4. At your editor such as Visual Studio, make sure you change the kernel to "dataScience" and then you can run the jupyterbook accordingly. <br>
+         pip install sktime[all_extras]
+
+5. At your editor such as Visual Studio, make sure you change the kernel to "dataScience" and then you can run the jupyterbook accordingly. <br>
 
 ## Q1
 

@@ -1,0 +1,15 @@
+name: dataScienceProject
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - notebook
+  - numpy
+  - python=3.9
+  - scikit-learn
+  - jupyter
+  - matplotlib
+  - statsmodels
+  - py-xgboost
+  - pip
+  
