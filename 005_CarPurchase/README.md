@@ -34,10 +34,17 @@ p/s if skforecast is failed to be installed, use  **pip install skforecast --use
 5. At your editor such as Visual Studio, make sure you change the kernel to "dataScienceProject" and then you can run the jupyterbook accordingly. <br>
 
 ### venv
-1. Create your venv and activate it.<br>
-2. Run <br>
-
-         pip install -r requirements.txt
+1. At Visual Studio Code, type "Ctrl + Shift + P". <br>
+2. A box is popped out at the middle top. <br> 
+3. Start typing the Python: Create Environment command to search, and then select the command. <br>
+4. The command presents a list of environment types: Venv or Conda. <br>
+5. Choose venv <br>
+6. Select Python as your interpreter path (Mine is Python 3.10.2 64-bit). <br>
+7. Select dependencies to install under 005_CarPurchase/requirements.txt and make sure you click at the path and then click "OK". <br>
+8. Wait for a few seconds as the system tries to create the environemnt and install all relevant dependencies. <br>
+9. Once it is complete, go to right top to choose .venv as your environemnt. <br>
+![Alt text](materials/topright.JPG)<br>
+10. Finally, Click "Run All" for both forecasting.ipynb and eda.ipynb. <br>
 
 
 ## Q1
